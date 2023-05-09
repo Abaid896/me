@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:/6TH SEMESTER/New folder/ALL"
+		},
+		{
+			"path": "D:/6TH SEMESTER/New folder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "iPortfolio"
+	}
+}
